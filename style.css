@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color:rgb(165, 42, 124);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-decoration: black;
+
+    }
+
+    h3{
+        text-align: center;
+        outline-color: brown;
+    }
+    nav a{
+        text-align: right;
+        float: right;
+        margin: 10px;
+        color: white;
+        font-size: 18px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        
+        }
+        a:hover{
+            color:blueviolet;
+            }
+ body{ 
+    background-image: url("images/ec1595bb2c276a7eb0927da893fc09c6.jpg")
